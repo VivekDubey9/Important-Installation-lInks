@@ -1,0 +1,8 @@
+
+*head over to this website
+   https://wiki.crowncloud.net/How_to_Install_Lets_Encrypt_SSL_Certificate_with_Nginx_on_Ubuntu_20_04?How_to_Install_MongoDB_on_Ubuntu_20_04#Download+and+add+the+MongoDB+GPG+key+with+the+following+command
+ *for ubuntu 22.04 version you will require libsl1 to install so here is the commands
+    echo "deb http://security.ubuntu.com/ubuntu focal-security main" | sudo tee /etc/apt/sources.list.d/focal-security.list
+
+    sudo apt-get update
+    sudo apt-get install libssl1.1
