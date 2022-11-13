@@ -1,0 +1,3 @@
+head over the official documentation-> https://www.mongodb.com/docs/mongodb-shell/install/#std-label-mdb-shell-install
+  To create file in 2nd step - use sudo gedit and then create file
+     or you can check out this page - https://www.linuxquestions.org/questions/linux-software-2/adding-to-source-list-denied-865813/
